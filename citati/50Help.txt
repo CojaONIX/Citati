@@ -1,0 +1,16 @@
+Pri svakom osvezavanju stranice, iz foldera sa slikama, php bira 3 slucajne za prikaz.
+Slajder
+Na osnovu imena fajlova dinamicki se formira meni sa kategotijama.
+Navigacija
+Citati se cuvaju u posebnim .txt fajlovima po kategorijama u formatu citat/autor naizmenicno u redovima. Nazivi fajlova pocinju sa dva karaktera 0-9 zbog sortiranja menija u zeljenom poretku.
+Baza citata
+Prilikom osvezavanja stranice bira se citat od svih dostupnih citata u svim kategorijama. Klikom na kategoriju iz menija bira se citat iz te kategorije.
+Izbor citata
+Bira se slucajno iz JavaScripta pa ne odgovara uvek polu autora citata. Ideja se moze razviti da pokazuje sliku autora - jedan autor moze imati i vise citata. Realizacija iskace iz okvira zadatka pa je trenutno samo ideja.
+Avatar
+Bootstrap da bi stranica izgledala prihvatljivo na raznim uredjajima.
+Responsive
+Posto php ne moze dimanicki da utice na stranicu, osvezavanje vremena radi JavaScript. Vreme svake sekunde a datum jednom u minutu (sto cesce ali ne bas svake sekunde).
+Datum i vreme
+Pozicija citata u kategoriji. Klik na Info pokazuje sledeci citat iz iste kategorije.
+Info
