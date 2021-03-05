@@ -3,4 +3,4 @@
 # Autor: Goran Cojić
 
 ## Live Demo:
-[![slika](Screenshot_1.jpg)](https://coja.um.rs/itbcdz/P01/)
+[![slika](Screenshot_1.png)](https://coja.um.rs/itbcdz/P01/)
